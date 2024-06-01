@@ -15,6 +15,7 @@
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.6.2",
-    "notenv": "^2.0.3"
+    "notenv": "^2.0.3",
+    "stripe": "^15.8.0"
   }
 }
